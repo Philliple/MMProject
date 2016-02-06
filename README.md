@@ -9,8 +9,8 @@ Game Goal: The objective of the game is to survive as long as you can against an
 Technical notes: This is a daunting task and will be under went with my team (Magen Dunbar: art designer, Justin Davis: co-programmer). The technical goal in this project is not to reinvent the wheel, but to get a better understanding of the systems used and how to effectively implement each tool in a timely manner.
 
 Software notes: The software that will be heavily utilized are as followed.
-Unreal engine 4
-Microsoft Visual studios
-Notepad++
-Adobe Photoshop 
+Unreal engine 4,
+Microsoft Visual studios,
+Notepad++,
+Adobe Photoshop,
 Blender
