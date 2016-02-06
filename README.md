@@ -1,5 +1,6 @@
 # MMProject
 Status:This is currently a [work in progress]
+Video of pre-alpha (https://www.youtube.com/watch?v=TD3oVPStyOI)
 
 Project Goal: This project’s goal is to successfully complete a working first person shooter game that would be a playable release.
 
@@ -12,3 +13,4 @@ Unreal engine 4
 Microsoft Visual studios
 Notepad++
 Adobe Photoshop 
+Blender
